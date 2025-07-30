@@ -1,4 +1,3 @@
-# Crear una versión mejorada con carrito de compras básico en JavaScript + botón de WhatsApp y Mercado Pago
 html_with_cart = """
 <!DOCTYPE html>
 <html lang="es">
